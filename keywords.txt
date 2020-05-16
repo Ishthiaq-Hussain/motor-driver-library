@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For Motor Driver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+motordrive	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pinsetup	KEYWORD2
+forward		KEYWORD2
+right		KEYWORD2
+left		KEYWORD2
+reverse		KEYWORD2
+hault		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
